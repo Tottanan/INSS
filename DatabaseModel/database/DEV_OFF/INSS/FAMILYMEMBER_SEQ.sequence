@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<sequence xmlns="http://xmlns.oracle.com/jdeveloper/1211/offlinedb">
+  <name>FAMILYMEMBER_SEQ</name>
+  <incrementBy>1</incrementBy>
+  <minValue>0</minValue>
+  <schema>
+    <name>INSS</name>
+  </schema>
+  <startWith>0</startWith>
+</sequence>

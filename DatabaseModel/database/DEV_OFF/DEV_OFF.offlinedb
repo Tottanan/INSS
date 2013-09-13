@@ -1,0 +1,10 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProviderSettings xmlns="http://xmlns.oracle.com/ide/hash">
+   <hash n="dataTypeSettings">
+      <value n="sourceKey" v="oracle.javatools.db.ora.Oracle11gR2XE"/>
+   </hash>
+   <value n="domainName"/>
+   <value n="id" v="c288e08d-afc3-47f6-9036-a72e748ea77b"/>
+   <value n="name" v="DEV_OFF"/>
+   <value n="offlineDBSchema" v="INSS"/>
+</ProviderSettings>
